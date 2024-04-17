@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rcili\\Downloads\\ConsoleApp27\\ConsoleApp27\\Collections.csproj",
+      "projectUniqueName": "C:\\Users\\rcili\\Downloads\\task6\\ConsoleApp27\\Collections.csproj",
       "projectName": "Collections",
-      "projectPath": "C:\\Users\\rcili\\Downloads\\ConsoleApp27\\ConsoleApp27\\Collections.csproj",
+      "projectPath": "C:\\Users\\rcili\\Downloads\\task6\\ConsoleApp27\\Collections.csproj",
       "packagesPath": "C:\\Users\\rcili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rcili\\Downloads\\ConsoleApp27\\ConsoleApp27\\obj\\",
+      "outputPath": "C:\\Users\\rcili\\Downloads\\task6\\ConsoleApp27\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rcili\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\rcili\\Downloads\\ConsoleApp27\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\rcili\\Downloads\\ConsoleApp27\\Core\\Core.csproj"
+            "C:\\Users\\rcili\\Downloads\\task6\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\rcili\\Downloads\\task6\\Core\\Core.csproj"
             }
           }
         }

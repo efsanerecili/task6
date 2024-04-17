@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rcili\\Downloads\\ConsoleApp27\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\rcili\\Downloads\\task6\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\rcili\\Downloads\\ConsoleApp27\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\rcili\\Downloads\\task6\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\rcili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rcili\\Downloads\\ConsoleApp27\\Core\\obj\\",
+      "outputPath": "C:\\Users\\rcili\\Downloads\\task6\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rcili\\AppData\\Roaming\\NuGet\\NuGet.Config",

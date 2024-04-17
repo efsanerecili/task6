@@ -86,7 +86,7 @@
                 {
                     RemoveAt(i);
                     removedCount++;
-                    i--; // Bir önceki indekse dön
+                    i--; 
                 }
             }
             return removedCount;
