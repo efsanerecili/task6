@@ -1,0 +1,11 @@
+C:\Users\rcili\source\repos\ConsoleApp27\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\rcili\source\repos\ConsoleApp27\Core\bin\Debug\net8.0\Core.dll
+C:\Users\rcili\source\repos\ConsoleApp27\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\rcili\source\repos\ConsoleApp27\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcili\source\repos\ConsoleApp27\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\rcili\source\repos\ConsoleApp27\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\rcili\source\repos\ConsoleApp27\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\rcili\source\repos\ConsoleApp27\Core\obj\Debug\net8.0\Core.dll
+C:\Users\rcili\source\repos\ConsoleApp27\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\rcili\source\repos\ConsoleApp27\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\rcili\source\repos\ConsoleApp27\Core\obj\Debug\net8.0\ref\Core.dll
